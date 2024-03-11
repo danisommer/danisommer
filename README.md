@@ -1,5 +1,5 @@
 ### Olá, Prazer! 
-#### Me chamo Daniel Zaki Sommer :). Atualmente sou estudante de BSI pela UTFPR. 
+#### Me chamo Daniel Zaki Sommer :). Atualmente estou no 3º período de Sistemas de Informação na UTFPR. 
 
 <div>
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisommer&layout=compact&theme=dracula">
