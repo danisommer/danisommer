@@ -1,5 +1,5 @@
 ### Olá, Prazer! 
-#### Me chamo Daniel Zaki Sommer :). Atualmente estou no 4º período de Sistemas de Informação na UTFPR. 
+#### Aqui você pode consultar os repositórios dos meus principais projetos públicos! Aproveite :)
 
 <div>
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisommer&layout=compact&theme=dracula">
