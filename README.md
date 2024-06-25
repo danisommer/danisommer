@@ -1,12 +1,9 @@
 ### Olá, Prazer! 
-#### Aqui você pode consultar os repositórios dos meus principais projetos públicos! Aproveite :)
+#### Algumas das minhas outras redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danisommer/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danisommer__/)
-<div>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisommer&layout=compact&theme=dracula">
-</div>
 
-### Tecnologias que mais uso e estou habituado
+#### Tecnologias que mais uso e estou habituado
 
 <div style={'display': 'inline-block'}>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -19,4 +16,9 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+<div>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisommer&layout=compact&theme=dracula">
+  <img height = "180em" src ="https://github-readme-stats.vercel.app/api?username=danisommer&show_icons=true&theme=dracula">
+</div>
 
+#### Aqui você pode consultar os repositórios dos meus principais projetos públicos! Aproveite :)
