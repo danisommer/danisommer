@@ -1,5 +1,5 @@
-### Olá, Prazer! 
-#### Tecnologias que mais uso e estou habituado:
+### Hello, nice to meet you! 👋
+#### Technologies I work with:
 
 <div>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
